@@ -2,7 +2,7 @@ Chris Haikney
 -------------
 
 Welcome to my Github profile page. The projects highlighted here are of two types:
-* Educational work conducted at the (42 Centre in Urduliz)[https://www.42urduliz.com].
+* Educational work conducted at the [42 Centre in Urduliz](https://www.42urduliz.com).
 * Open source / FOSS contributions.
 
 Who am I?
@@ -19,16 +19,16 @@ I have gained a lot from Free Software / software libre projects and I'm strivin
 
 Please note that I do *not* use AI tools for any part of my contributions, unless I explicitly say so in the messages. **That goes triple for commit messages and other communication**. I want to respect your time and I am not here harvesting followers or stars. I hope that even my most trivial contributions add value to the projects, and I am happy to engage in any improvements that a PR may need.
 
-My biggest FOSS project at the moment is (a port of Cantata to the Qt6 toolkit)[https://codeberg.org/chaikney/cantata]. Motivated by desire to learn Qt and GUI programming, as well as gratitude for the use I've had of the program, a desire to continue to be able to use it.
+My biggest FOSS project at the moment is [a port of Cantata to the Qt6 toolkit](https://codeberg.org/chaikney/cantata). Motivated by desire to learn Qt and GUI programming, as well as gratitude for the use I've had of the program, a desire to continue to be able to use it.
 
-On the FOSS theme, I also have an account on (Codeberg)[https://codeberg.org/chaikney/] it may be  that there is more activity there.
+On the FOSS theme, I also have an account on [Codeberg](https://codeberg.org/chaikney/) it may be  that there is more activity there.
 
 Key projects at 42 Urduliz
 --------------------------------------
 
-If you're here looking to see what I can do, perhaps I sent you a CV, then aside from my LinkedIn page and my personal website I'll draw your attention to these projects from the common core of projects at the 42 school in Urduliz:
+If you're here looking to see what I can do, perhaps I sent you a CV, then aside from [my LinkedIn page](https://www.linkedin.com/in/christopher-haikney/) and [my personal website](https://www.haikney.es) I'll draw your attention to these projects from the common core of projects at the 42 school in Urduliz:
 
-* (Minishell)[https://github.com/Chaikney/minishell]
-* (ft_irc)[https://github.com/Chaikney/ft_irc]
+* [Minishell](https://github.com/Chaikney/minishell)
+* [ft_irc](https://github.com/Chaikney/ft_irc)
 
 Details of specific outcomes are there in the repositories, but in general I hope that they show a process of development and increasing understanding of the respective languages, product management (scope, division of labour), and a useful final product.
