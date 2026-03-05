@@ -8,9 +8,9 @@ Welcome to my Github profile page. The projects highlighted here are of two type
 Who am I?
 ---------
 
-My website can be found at https://www.haikney.es -- the information there will generally be the most up-to-date and definitive.
+[My website can be found at https://www.haikney.es](https://www.haikney.es) -- the information there will generally be the most up-to-date and definitive.
 
-Why is there no profile pic? Well, when was the last time someone tried to scam you and *didn't* have a fine looking profile photo? It proves nothing. I am a real person.
+Why is there no profile pic? Am I human? Yes. And honest. And good at stuff. You should totally hire me. (When was the last time someone tried to scam you and *didn't* have a fine looking profile photo?)
 
 FOSS contributions
 ------------------
@@ -24,7 +24,7 @@ My biggest FOSS project at the moment is [a port of Cantata to the Qt6 toolkit](
 On the FOSS theme, I also have an account on [Codeberg](https://codeberg.org/chaikney/) it may be  that there is more activity there.
 
 Key projects at 42 Urduliz
---------------------------------------
+--------------------------
 
 If you're here looking to see what I can do, perhaps I sent you a CV, then aside from [my LinkedIn page](https://www.linkedin.com/in/christopher-haikney/) and [my personal website](https://www.haikney.es) I'll draw your attention to these projects from the common core of projects at the 42 school in Urduliz:
 
@@ -32,3 +32,5 @@ If you're here looking to see what I can do, perhaps I sent you a CV, then aside
 * [ft_irc](https://github.com/Chaikney/ft_irc)
 
 Details of specific outcomes are there in the repositories, but in general I hope that they show a process of development and increasing understanding of the respective languages, product management (scope, division of labour), and a useful final product.
+
+(To find out more about the Common Core curriculum at 42 there's [their page for businesses](https://www.42urduliz.com/empresas/) or (their FAQs page)[https://www.42urduliz.com/faqs-2/].
