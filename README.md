@@ -33,4 +33,4 @@ If you're here looking to see what I can do, perhaps I sent you a CV, then aside
 
 Details of specific outcomes are there in the repositories, but in general I hope that they show a process of development and increasing understanding of the respective languages, product management (scope, division of labour), and a useful final product.
 
-(To find out more about the Common Core curriculum at 42 there's [their page for businesses](https://www.42urduliz.com/empresas/) or (their FAQs page)[https://www.42urduliz.com/faqs-2/].
+(To find out more about the Common Core curriculum at 42 there's [their page for businesses](https://www.42urduliz.com/empresas/) or [their FAQs page](https://www.42urduliz.com/faqs-2/)).
