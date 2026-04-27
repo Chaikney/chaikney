@@ -29,7 +29,7 @@ FOSS contributions
 
 I have gained a lot from Free Software / software libre projects and I'm striving to contribute back in various ways. I hope I can bring fresh perspectives to some projects (what mindfulness people call "beginner's mind"). What does that mean concretely? Sometimes people deeply involved  and close to a codebase are so accustomed to the way it is, that they may not notice issues that could ease the user experience (UX) and bring it to a new or wider audience. While I am building my skills and experience this might be a key niche that I can occupy.
 
-Please note that I do *not* use AI tools for any part of my contributions, unless I explicitly say so in the messages. **That goes triple for commit messages and other communication**. I want to respect your time and I am not here harvesting followers or stars. I hope that even my most trivial contributions add value to the projects, and I am happy to engage in any improvements that a PR may need.
+Please note that I do *not* use AI tools for any part of my contributions, unless I explicitly say so in the messages. **That goes triple for commit messages and other communication**. I want to respect your time and I am [not here harvesting followers or stars](https://awesomeagents.ai/news/github-fake-stars-investigation/). I hope that even my most trivial contributions add value to the projects, and I am happy to engage in any improvements that a PR may need.
 
 My biggest FOSS project at the moment is [a port of Cantata to the Qt6 toolkit](https://codeberg.org/chaikney/cantata). Motivated by desire to learn Qt and GUI programming, as well as gratitude for the use I've had of the program, a desire to continue to be able to use it.
 
