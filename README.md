@@ -17,6 +17,7 @@ Key projects at 42 Urduliz
 
 If you're here looking to see what I can do, perhaps I sent you a CV, then aside from [my LinkedIn page](https://www.linkedin.com/in/christopher-haikney/) and [my personal website](https://www.haikney.es) I'll draw your attention to these projects from the common core of projects at the 42 school in Urduliz:
 
+* [Transcendence](https://github.com/Chaikney/ft_transcendence)
 * [Minishell](https://github.com/Chaikney/minishell)
 * [ft_irc](https://github.com/Chaikney/ft_irc)
 
