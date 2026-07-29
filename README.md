@@ -34,4 +34,4 @@ Please note that I do *not* use AI tools for any part of my contributions, unles
 
 My biggest FOSS project at the moment is [a port of Cantata to the Qt6 toolkit](https://codeberg.org/chaikney/cantata). Motivated by desire to learn Qt and GUI programming, as well as gratitude for the use I've had of the program, a desire to continue to be able to use it.
 
-On the FOSS theme, I also have an account on [Codeberg](https://codeberg.org/chaikney/) it may be  that there is more activity there.
+On the FOSS theme, I also have an account on [Codeberg](https://codeberg.org/chaikney/) it may be that there is more activity there.
