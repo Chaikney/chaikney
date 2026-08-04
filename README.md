@@ -8,7 +8,7 @@ Welcome to my Github profile page. The projects highlighted here are of two type
 Who am I?
 ---------
 
-[My website can be found at https://www.haikney.es](https://www.haikney.es) -- the information there will generally be the most up-to-date and definitive.
+[My website can be found at https://www.haikney.es](https://www.haikney.es) -- the information there will generally be the most up-to-date and definitive. There is also [my LinkedIn page](https://linkedin.com/in/christopher-haikney) where you could contact me.
 
 Why is there no profile pic? Am I human? Yes. And honest. And good at stuff. You should totally hire me. (When was the last time someone tried to scam you and *didn't* have a fine looking profile photo?)
 
